@@ -14,3 +14,15 @@ JavaScript: To add interactivity, such as live search, dynamic filters, and resp
 # 🎯 Goal:
 CookingHUB aims to create a simple yet effective platform where cooking enthusiasts can find inspiration, learn new recipes, and enhance their culinary skills—all in one place.
 
+# Preview:
+
+![image](https://github.com/user-attachments/assets/77fdf2c0-ff13-495d-b7d1-b21649baac22)
+
+![image](https://github.com/user-attachments/assets/dd509999-b554-46b5-8b11-9b41d6b4ff6c)
+
+![image](https://github.com/user-attachments/assets/063cbf26-1ce9-4c37-8c87-c7230eb5c200)
+
+![image](https://github.com/user-attachments/assets/03f6cb55-2b68-4fcc-abf3-b51b6a5fc82c)
+
+
+
